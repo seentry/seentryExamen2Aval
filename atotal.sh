@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 total=0
 
 echo "Elige ciudad:"
